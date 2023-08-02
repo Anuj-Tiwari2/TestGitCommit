@@ -1,0 +1,9 @@
+{
+    "positions":
+    {
+        "Queen":"E7",
+        "Bishop":"C7",
+        "Rook":"G5",
+        "Knight":"C3"
+    }
+}
